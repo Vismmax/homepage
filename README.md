@@ -11,4 +11,4 @@ Links to CV:
 - [Zeit Now](https://homepage.vismmax.now.sh/)
 
 ## Gratitude
-Thanks for the information provided to [Volodymyr Kushnir](https://volodymyrkushnir.com/) and the [Binary Studio Academy](https://binary-studio.com/academy/) team
+Thanks for the information provided to [Volodymyr Kushnir](https://volodymyrkushnir.com/) and the [Binary Studio Academy](https://binary-studio.com/academy/) team.
